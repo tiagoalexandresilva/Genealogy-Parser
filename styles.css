@@ -1,0 +1,48 @@
+#wrapper {
+	width: 900px;
+	margin: 10px auto;
+	background-color: #FFF;
+	padding: 0 40px 40px;
+}
+
+body {
+	font-family: Arial, Helvetica, Gotham, "Helvetica Neue", sans-serif;
+	background-image: url(paper005.gif);
+	background-repeat: repeat;
+}
+
+h1 {
+	font-family: 'Open Sans Condensed', Arial, Helvetica, Gotham, "Helvetica Neue", sans-serif;
+	color:#A00000;
+	text-align:center;
+}
+
+h2 {
+	font-family: 'Open Sans Condensed', Arial, Helvetica, Gotham, "Helvetica Neue", sans-serif;
+	color:000066;
+}
+
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+
+a:active {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #E1B96C;
+}
+
+a:focus {
+	text-decoration: none;
+	color: #E1B96C;
+}

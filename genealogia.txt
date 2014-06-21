@@ -1,0 +1,90 @@
+#P
+Manuel da Silva *c1920 +2000 [1]
+<FOTO> ./Fotos/66.jpg
+<HIST> ./Historias/5.txt
+<EV> (Baptismo : 1996)
+<CC> 1940 [1]
+Maria Felisbina *1925 [2]
+<F> Serafim da Silva *1950 [3]
+<F> Ana da Silva *1951 +c2005 [4]
+#P
+Maria Felisbina *1925 [2]
+<FOTO> ./Fotos/5.jpg
+<HIST> ./Historias/2.txt
+<EV> (Campeã de Xadrez : 1950)
+<CC> 1940 [1]
+Manuel da Silva *c1920 +2000 [1]
+<F> Serafim da Silva *1950 [3]
+<F> Ana da Silva *1951 +c2005 [4]
+#P
+Serafim da Silva *1950 [3]
+<P> Manuel da Silva *c1920 +2000 [1]
+<M> Maria Felisbina *1925 [2]
+<FOTO> ./Fotos/20.jpg
+<HIST> ./Historias/4.txt
+<EV> (Licenciatura em Engenharia Informática : 1970)
+<EV> (Mestrado em Processamento de Linguagens : 1975)
+<CC> 1980 [2]
+Carolina da Andrade Carregueira *c1952 [5]
+<F> Orlando Belo *1982 [6]
+<F> Cristiano Ruinaldo da Manga *c1983 [7]
+#P
+Ana da Silva *1951 +c2005 [4]
+<P> Manuel da Silva *c1920 +2000 [1]
+<M> Maria Felisbina *1925 [2]
+<FOTO> ./Fotos/4.jpg
+<HIST> ./Historias/1.txt
+<EV> (Prémio Nobel da Literatura : 1970)
+<EV> (Comunhão : 1958)
+#P
+Carolina da Andrade Carregueira *c1952 [5]
+<P> José dos Santos Oliveira *c1922 +2002 [8]
+<M> Mariana de Jesus Stark *1925 +c2009 [9]
+<FOTO> ./Fotos/11.jpg
+<HIST> ./Historias/3.txt
+<EV> (Aprendeu Ikebana : 1970)
+<CC> 1980 [2]
+Serafim da Silva *1950 [3]
+<F> Orlando Belo *1982 [6]
+<F> Cristiano Ruinaldo da Manga *c1983 [7]
+#P
+José dos Santos Oliveira *c1922 +2002 [8]
+<FOTO> ./Fotos/67.jpg
+<HIST> ./Historias/6.txt
+<EV> (Plantou batatas : 1996)
+<CC> 1941 [3]
+Mariana de Jesus Stark *1925 +c2009 [9]
+<F> Carolina da Andrade Carregueira *c1952 [5]
+#P
+Mariana de Jesus Stark *1925 +c2009 [9]
+<FOTO> ./Fotos/25.jpg
+<HIST> ./Historias/7.txt
+<EV> (Ajudou a plantar batatas : 1996)
+<EV> (Inventou máquina do tempo : 1990)
+<CC> 1941 [3]
+José dos Santos Oliveira *c1922 +2002 [8]
+<F> Carolina da Andrade Carregueira *c1952 [5]
+#P
+Orlando Belo *1982 [6]
+<P> Serafim da Silva *1950 [3]
+<M> Carolina da Andrade Carregueira *c1952 [5]
+<MM> Mariana de Jesus Stark *1925 +c2009 [9]
+<MP> Maria Felisbina *1925 [2]
+<PP> Manuel da Silva *c1920 +2000 [1]
+<PM> José dos Santos Oliveira *c1922 +2002 [8]
+<FOTO> ./Fotos/62.jpg
+<HIST> ./Historias/8.txt
+<EV> (Iniciou Wrestling : 1996)
+<EV> (Campeão de Wrestling : 2014)
+#P
+Cristiano Ruinaldo da Manga *c1983 [7]
+<P> Serafim da Silva *1950 [3]
+<M> Carolina da Andrade Carregueira *c1952 [5]
+<MM> Mariana de Jesus Stark *1925 +c2009 [9]
+<MP> Maria Felisbina *1925 [2]
+<PP> Manuel da Silva *c1920 +2000 [1]
+<PM> José dos Santos Oliveira *c1922 +2002 [8]
+<FOTO> ./Fotos/1.jpg
+<HIST> ./Historias/9.txt
+<EV> (Presidente : 2010)
+<EV> (Deputado Europeu : 2005)
